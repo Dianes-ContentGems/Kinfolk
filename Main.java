@@ -44,7 +44,7 @@ import java.util.Scanner;
  * 		kin
  * 
  * Methods (in order):
- *  public static void main(String[] args)
+ *	public static void main(String[] args)
  * 	public static void relationship(int a, int b, char s)
  *	private static String childCousinNiece(int a, int b, char s)
  *	private static String parentCousinAunt(int a, int b, char s)
