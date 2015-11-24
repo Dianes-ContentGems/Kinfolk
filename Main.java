@@ -1,5 +1,3 @@
-package Kinfolk;
-
 import java.util.Scanner;
 
 /**
