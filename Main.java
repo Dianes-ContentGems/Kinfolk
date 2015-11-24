@@ -85,7 +85,7 @@ public class Main {
 	 * @param s
 	 *            Gender 'M' or 'F'
 	 */
-	private static void relationship(int a, int b, char s) {
+	public static void relationship(int a, int b, char s) {
 		int levelA = level(a);
 		int levelB = level(b);
 		if (levelA == levelB) {
